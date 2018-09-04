@@ -1,2 +1,4 @@
-language: csharp
-solution: solution-name.sln
+language: node_js
+node_js:
+  - "iojs"
+  - "7"
